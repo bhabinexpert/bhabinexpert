@@ -26,18 +26,12 @@
 
 
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1&column=7&margin-w=15" />
-</p>
-
 ## 🔥 About Me
 
 - 💻 Full Stack Developer and still learning
 - 🚀 Building **scalable** and **high-performance** applications
 - 🌱 Currently learning **React** and **React-native**
-- 💡 Passionate about **open-source** and **clean code**
+
 
 
 ## 🛠️ My Tech Stack
