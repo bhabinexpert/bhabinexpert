@@ -73,7 +73,7 @@
   <a href="mailto:bhabindulal46@example.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://myportfolio.com" target="_blank">
+  <a href="https://bhabindulal.com.np" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-3423A6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
