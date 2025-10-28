@@ -1,6 +1,6 @@
 # 💫 Hi There, I'm BHABIN DULAL! 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F728&width=435&lines=Full+Stack+Developer;Open-Source+Contributor;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F728&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together." alt="Typing SVG" /></a>
