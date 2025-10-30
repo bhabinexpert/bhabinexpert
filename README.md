@@ -21,7 +21,8 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhabinexpert&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
   
   <!-- Streak Stats -->
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bhabinexpert&theme=radical&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=bhabinexpert&theme=radical&hide_border=true" />
+</p>
 </p>
 
 
