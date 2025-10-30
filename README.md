@@ -102,7 +102,7 @@
 </div>
 
 
-## 💻 Latest Projects (optional — uncomment and update repo names)
+## 💻 Latest Projects
 <p align="center">
   <a href="https://github.com/bhabinexpert/LibraryManagementSystem">
     <img alt="LibraryManagementSystem" src="https://github-readme-stats.vercel.app/api/pin/?username=bhabinexpert&repo=Library-Management-System&theme=radical&hide_border=true" />
