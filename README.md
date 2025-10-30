@@ -31,7 +31,7 @@
 
 - 💻 Full Stack Developer and still learning
 - 🚀 Building **scalable** and **high-performance** applications
-- 🌱 Currently learning **React** and **React-native**
+- 🌱 Currently learning **Java** and **OOPs**
 
 
 
