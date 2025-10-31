@@ -19,8 +19,9 @@
 </p>
 
 <p align="center">
-  <!-- Profile Stats -->
+  <!-- Profile Stats 
   <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=bhabinexpert&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  -->
   
   <!-- Streak Stats -->
   <img alt="GitHub Streak" height="165" src="https://streak-stats.demolab.com?user=bhabinexpert&theme=radical&hide_border=true" />
