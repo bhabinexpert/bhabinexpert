@@ -2,15 +2,17 @@
 
 # Bhabin Dulal
 
-### Full-Stack Developer | MERN | Applied AI/ML | Civic Technology
+### Full-Stack Developer | MERN | Applied AI/ML
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;MERN+Web+Development;Applied+AI%2FML;Building+Practical+Digital+Products;Civic+Technology+%26+Youth+Engagement" alt="Animated typing tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;MERN+Web+Development;Applied+AI%2FML" alt="Animated typing tagline" />
 
 <p>
   <a href="https://bhabindulal.com.np">
     <img src="https://img.shields.io/badge/Portfolio-bhabindulal.com.np-2F81F7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <img src="https://img.shields.io/badge/LinkedIn-URL%20coming%20soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn URL coming soon" />
+  <a href="https://www.linkedin.com/in/bhabindulal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:bhabindulal35@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -23,13 +25,9 @@
 
 ## About Me
 
-I’m **Bhabin Dulal**, also known as **Vabin**, a BSc (Hons) Computing student at Itahari International College (IIC), affiliated with London Metropolitan University.
+I’m **Bhabin Dulal** (Vabin), a BSc (Hons) Computing student at Itahari International College (IIC), affiliated with London Metropolitan University.
 
-I build full-stack web applications with a focus on practical product development, particularly across the MERN stack.
-
-My current interests include applied AI/ML, civic technology, and technology-driven youth engagement.
-
-Based in **Damak, Jhapa, Nepal**, I’m focused on turning real-world problems into usable digital products.
+I build full-stack applications with the MERN stack and explore applied AI/ML.
 
 ---
 
@@ -37,8 +35,7 @@ Based in **Damak, Jhapa, Nepal**, I’m focused on turning real-world problems i
 
 - **Full-Stack Developer Intern — MyHeat** · Remote, South Africa · Since June 2026
 - **BSc (Hons) Computing — Itahari International College (IIC)** · Affiliated with London Metropolitan University
-- Learning and building around **full-stack development, applied AI/ML, intelligent web applications, and practical product engineering**
-- Exploring how software and AI can support **civic participation and youth engagement**
+- Learning and building around **full-stack development, applied AI/ML, and intelligent web applications**
 
 ---
 
@@ -159,7 +156,7 @@ Based in **Damak, Jhapa, Nepal**, I’m focused on turning real-world problems i
 
 <p>
   <a href="https://bhabindulal.com.np">Portfolio</a> ·
-  <span>LinkedIn (URL coming soon)</span> ·
+  <a href="https://www.linkedin.com/in/bhabindulal/">LinkedIn</a> ·
   <a href="mailto:bhabindulal35@gmail.com">Email</a>
 </p>
 
