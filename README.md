@@ -25,7 +25,7 @@
 
 ## About Me
 
-I’m **Bhabin Dulal** (Vabin), a BSc (Hons) Computing student at Itahari International College (IIC), affiliated with London Metropolitan University.
+I’m **Bhabin Dulal**, a BSc (Hons) Computing student at Itahari International College (IIC), affiliated with London Metropolitan University.
 
 I build full-stack applications with the MERN stack and explore applied AI/ML.
 
@@ -63,18 +63,6 @@ I build full-stack applications with the MERN stack and explore applied AI/ML.
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools: Git, GitHub, VS Code and Postman" />
 </p>
-
----
-
-## Certifications
-
-- **Oracle Cloud Infrastructure Certified AI Foundations Associate** — September 2026
-- **AWS — Prompt Engineering**
-- **React JS** — GeeksforGeeks
-- **JavaScript** — GeeksforGeeks
-- **Ethics of AI** — UNESCO & LG AI Research, Coursera
-
----
 
 ## GitHub Analytics
 
