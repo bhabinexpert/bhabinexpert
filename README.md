@@ -31,14 +31,6 @@ I build full-stack applications with the MERN stack and explore applied AI/ML.
 
 ---
 
-## Currently
-
-- **Full-Stack Developer Intern — MyHeat** · Remote, South Africa · Since June 2026
-- **BSc (Hons) Computing — Itahari International College (IIC)** · Affiliated with London Metropolitan University
-- Learning and building around **full-stack development, applied AI/ML, and intelligent web applications**
-
----
-
 ## Tech Stack
 
 ### Frontend
@@ -74,16 +66,6 @@ I build full-stack applications with the MERN stack and explore applied AI/ML.
 
 ---
 
-## Featured Projects
-
-| Project | Project | Project |
-|:---:|:---:|:---:|
-| **Khoj**<br><sub>No-login job & internship aggregator for Nepal with explainable CV matching.<br>React/Vite · Node/Express/MongoDB · FastAPI · Python</sub><br><br>[Live →](https://kaampaam.netlify.app/) | **NagarSewa**<br><sub>Civic engagement platform connecting citizens and public-service workflows.<br>MERN</sub> | **Election Data Visualization Dashboard**<br><sub>Interactive platform for exploring and visualizing election data.<br>MERN</sub> |
-| **Library Management System**<br><sub>Web-based library management platform for managing books and borrowing workflows.<br>MERN</sub> | **Open-Source Smart Notebook**<br><sub>Web application for organizing and managing notes.<br>MERN</sub> | **Mood Predictor**<br><sub>Streamlit sentiment classifier using TF-IDF and scikit-learn.<br>Python · scikit-learn · Streamlit</sub><br><br>[Live →](https://moodpredictorbyavbin.streamlit.app/) |
-| **AI/ML Learning Roadmap**<br><sub>Seven-module curriculum site covering a structured AI/ML learning path.</sub><br><br>[Live →](https://ai-ml.bhabindulal.com.np/) | — | — |
-
----
-
 ## Certifications
 
 - **Oracle Cloud Infrastructure Certified AI Foundations Associate** — September 2026
@@ -98,21 +80,21 @@ I build full-stack applications with the MERN stack and explore applied AI/ML.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=bhabinexpert&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=2F81F7&icon_color=2F81F7"
+    src="https://github-readme-stats.vercel.app/api?username=bhabinexpert&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9&cache_seconds=1800"
     height="170"
-    alt="Bhabin Dulal GitHub statistics"
+    alt="GitHub stats card for Bhabin Dulal showing commits, pull requests, and repository metrics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhabinexpert&layout=compact&hide_border=true&theme=transparent&title_color=2F81F7"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=bhabinexpert&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=2F81F7&text_color=C9D1D9&cache_seconds=1800"
     height="170"
-    alt="Bhabin Dulal most used programming languages"
+    alt="Top programming languages card for Bhabin Dulal GitHub profile"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=bhabinexpert&theme=transparent&hide_border=true&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7"
-    alt="Bhabin Dulal GitHub contribution streak"
+    src="https://streak-stats.demolab.com?user=bhabinexpert&theme=transparent&hide_border=true&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&stroke=8B949E"
+    alt="GitHub contribution streak card for Bhabin Dulal"
   />
 </p>
 
@@ -120,7 +102,7 @@ I build full-stack applications with the MERN stack and explore applied AI/ML.
 
 ---
 
-## 3D Contribution Heatmap
+<p align="center"><sub>Contribution activity, visualized as a 3D landscape</sub></p>
 
 <p align="center">
   <picture>
@@ -134,9 +116,7 @@ I build full-stack applications with the MERN stack and explore applied AI/ML.
   </picture>
 </p>
 
----
-
-## Contribution Snake
+<p align="center"><sub>Yearly contribution flow in motion</sub></p>
 
 <p align="center">
   <picture>
