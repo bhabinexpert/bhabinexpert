@@ -86,12 +86,6 @@ I build full-stack applications with the MERN stack and explore applied AI/ML.
   />
 </p>
 
-> GitHub analytics are provided by public third-party services and may occasionally be unavailable or rate-limited.
-
----
-
-<p align="center"><sub>Contribution activity, visualized as a 3D landscape</sub></p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
