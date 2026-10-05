@@ -2,9 +2,9 @@
 
 # Bhabin Dulal
 
-### Full-Stack Developer | MERN | Applied AI/ML
+### Full-Stack Developer | Applied AI/ML
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;MERN+Web+Development;Applied+AI%2FML" alt="Animated typing tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;Applied+AI%2FML" alt="Animated typing tagline" />
 
 <p>
   <a href="https://bhabindulal.com.np">
